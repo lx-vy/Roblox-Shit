@@ -14,14 +14,14 @@ game.Workspace["Pizza Land"]["Leprechaun King"].Name = "SellZone7"
 wait(0.1)
 game.Workspace["Pizza Land"]["Leprechaun King"].Name = "SellZone8"
 
-local SellZone1RealCFrame = "58.1741333, 49.2916527, 536.68512, 0, -1, 0, 1, 0, -0, 0, 0, 1"
-local SellZone2RealCFrame = "252.174133, 64.2916565, 549.68512, 0, 1, 0, 1, 0, 0, 0, 0, -1"
-local SellZone3RealCFrame = "261.174133, 79.2916565, 726.68512, 0, 1, 0, 1, 0, 0, 0, 0, -1"
-local SellZone4RealCFrame = "-65.8258667, 79.2916565, 877.68512, 0, 1, 0, 1, 0, 0, 0, 0, -1"
-local SellZone5RealCFrame = "-8.82586575, 79.2916565, 1179.68518, 0, 0, 1, 1, 0, 0, 0, 1, 0"
-local SellZone6RealCFrame = "22.1741333, 87.2916565, 1385.68518, 0, 0, 1, 1, 0, 0, 0, 1, 0"
-local SellZone7RealCFrame = "303.174133, 52.2916527, 350.68512, 0, 1, 0, 1, 0, 0, 0, 0, -1"
-local SellZone8RealCFrame = "294.674133, 52.2916527, 234.68512, 0, 1, 0, 1, 0, 0, 0, 0, -1"
+local SellZone1RealCFrame = "58.1741333, 49.2916527, 536.68512"
+local SellZone2RealCFrame = "252.174133, 64.2916565, 549.68512"
+local SellZone3RealCFrame = "261.174133, 79.2916565, 726.68512"
+local SellZone4RealCFrame = "-65.8258667, 79.2916565, 877.68512"
+local SellZone5RealCFrame = "-8.82586575, 79.2916565, 1179.68518"
+local SellZone6RealCFrame = "22.1741333, 87.2916565, 1385.68518"
+local SellZone7RealCFrame = "303.174133, 52.2916527, 350.68512"
+local SellZone8RealCFrame = "294.674133, 52.2916527, 234.68512"
 local SellZoneFakeCFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
 
 local SellZoneRealSize = "0.633421, 17.7356, 17.7356"
